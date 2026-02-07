@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Description
 
-A sleek, dark-themed Cursor landing page with a modern layout, smooth visuals, and a responsive design featuring a clean navbar and call-to-action buttons.
+- A sleek, dark-themed Cursor landing page with a modern layout, smooth visuals, and a responsive design featuring a clean navbar and call-to-action buttons.
 ---
 ## Live Demo
 https://resumeproject061.netlify.app/
